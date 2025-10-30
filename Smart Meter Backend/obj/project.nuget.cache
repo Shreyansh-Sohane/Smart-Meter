@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v/4GHWFg+lk=",
+  "dgSpecHash": "9537Qrv5Da4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\personal Project\\SmartMeterBackend\\SmartMeterBackend.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\personal Project\\SmartMeterBackend\\Smart Meter Backend\\SmartMeterBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\cloudinarydotnet\\1.27.8\\cloudinarydotnet.1.27.8.nupkg.sha512",
