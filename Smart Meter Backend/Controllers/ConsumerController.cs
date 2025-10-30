@@ -113,7 +113,6 @@ namespace SmartMeterBackend.Controllers
             consumer.Orgunitid = request.Orgunitid;
             consumer.Tariffid = request.Tariffid;
             consumer.Status = request.Status;
-            consumer.Createdat = request.Createdat;
             consumer.Deleted = request.Deleted;
 
             _context.Consumers.Update(consumer);

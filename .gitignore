@@ -1,0 +1,19 @@
+# Ignore Visual Studio settings and caches
+.vs/
+**/.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Ignore temporary files
+*.cache
+*.log
+*.db
+*.vsidx
